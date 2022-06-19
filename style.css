@@ -104,19 +104,9 @@ h1.name {
 	font-size: 70px;
 	font-weight: 300;
 	display: block;
+	margin-top: 15px;
 }
 
-.job-title {
-	position:relative;float:left;
-	background-color: #D9E7F8;
-	color: #4A90E2;
-	font-weight: 600;
-	margin-top: 5px;
-	margin-left: 20px;
-	border-radius: 5px;
-	display: inline-block;
-	padding: 13px 22px;
-}
 
 .email {
 	display: inline-block;
@@ -139,11 +129,11 @@ h1.name {
 .lead {
 	font-size: 44px;
 	font-weight: 300;
-	margin-top: 20px;
+	margin-top: 40px;
 	line-height: 55px;
 	display: inline-block;
 	margin-left: 0%;
-	margin-bottom: 0px;
+	margin-bottom: 15px;
 }
 
 /*hero ends*/
@@ -154,7 +144,7 @@ h1.name {
 	vertical-align: top;
 	display: inline-block;
 	width: 49.7%;
-	height: 50px;
+	height: 75px;
 }
 
 .section-title {
