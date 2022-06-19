@@ -421,6 +421,11 @@ li .description {
 		padding: 15px;
 		margin: 0px auto;
 	}
+	
+	.img    {
+		width: 50%;
+	}
+	
 	.cards {
 		margin-top: 320px;
 	}
@@ -455,6 +460,7 @@ li .description {
 	h1.name {
 		font-size: 40px;
 	}
+	
 	.img    {
 		width: 50%;
 	}
