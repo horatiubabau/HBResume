@@ -455,7 +455,9 @@ li .description {
 	h1.name {
 		font-size: 40px;
 	}
-
+	.img    {
+		width: 50%;
+	}
 	.card , .sections {
 		width: 100%;
 		height: auto;
@@ -489,5 +491,3 @@ li .description {
 	}
 	}
 
-
-/* End of all :P*/
